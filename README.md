@@ -1,15 +1,14 @@
-# Ввдение в глубокое обучение
+# Deep learning introduction
 
-Нейронная сеть без библиотек (по книге Тарика Рашида) - `nn_init.py`       
-Нейронная сеть без библиотек (по `wildml.com`) - `nn_init2.ipynb`     
+Neural network with numpy only: `nn_init.py`, `nn_init2.ipynb`     
 
 **Keras**    
-1.1 Простейшая нейросеть - `mnist.ipynb`    
-1.2 [Франсуа Шолле] Тензоры, простейшая нейросеть на Keras - `naive_nn.ipynb`    
-2.1 Многослойный персептрон - `multilayer_perception.ipynb`    
-2.2 [Франсуа Шолле] Бинарная классификация трёхслойной НС - `imdb.ipynb`   
-3 [Франсуа Шолле] Многоклассовая классификация трёхслойной НС - `reuters.ipynb`   
+1.1 Elementary neural network - `mnist.ipynb`    
+1.2 [Chollet] Tensors and naive NN implementation - `naive_nn.ipynb`    
+2.1 [Chollet] Multilayer perception - `multilayer_perception.ipynb`    
+2.2 [Chollet] Binary classification with 3-layers network - `imdb.ipynb`   
+3 [Chollet] Multiclass classification with 3-layers network - `reuters.ipynb`   
 
 
-**Статьи**       
-1. Свёрточные нейронные сети [U-net] - `cnn.ipynb`
+**Papers**       
+1. Convolutional neural network [U-net] - `cnn.ipynb`
