@@ -12,3 +12,7 @@ Neural network with numpy only: `nn_init.py`, `nn_init2.ipynb`
 
 **Papers**       
 1. Convolutional neural network [U-net] - `cnn.ipynb`
+
+
+**Scripts**
+1. `find_unsimilar.py` - get the most unsimilar images from the dataset
